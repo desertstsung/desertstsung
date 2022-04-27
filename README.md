@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @desertstsung
 - 👀 I’m interested in GNU/Linux, Open Source, and Scientific Algorithm
 - 🌱 I’m currently learning Atmospheric Remote Sensing Engineering based on pure `C`
-- ⛷️ I owned repos written in `IDL`, `C`, `Python`, `Javascript`
+- ⛷️ I own repositories written in `IDL`, `C`, `Python`, `Javascript`
 - 🎴️ I have contributed to GDAL(`C++`), RustDesk(`Rust`)
 
 <!---
